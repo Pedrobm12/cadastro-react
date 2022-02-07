@@ -1,3 +1,3 @@
 # cadastro-react
 
-O projeto foi feito para demonstra um pouco do meu conhecimento, trabalhei com bootstrap e React.
+The project was made to demonstrate some of my knowledge, I worked with bootstrap and React.
